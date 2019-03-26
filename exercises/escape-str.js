@@ -8,7 +8,8 @@
  */
 
 // Your code :
-
+const escapeStr = 'scapeSt'
+const escapeStr = "scapeSt"
 //* Begin of tests
 const assert = require('assert')
 

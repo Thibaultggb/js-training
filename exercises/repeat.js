@@ -7,6 +7,9 @@
  * Of course you may not use the method directly
  *
  */
+var chorus = ('répétition' 4 );
+
+console.log('Chorus lyrics for "répétition": ' + chorus.repeat(4));
 
 //* Begin of tests
 const assert = require('assert')
