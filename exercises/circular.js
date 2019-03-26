@@ -8,6 +8,11 @@
  */
 
 // Your code :
+const circular = {
+    get circular (){
+        
+    }
+}
 
 //* Begin of tests
 const assert = require('assert')
