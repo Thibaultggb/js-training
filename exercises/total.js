@@ -6,7 +6,14 @@
  *
  */
 
+function total (tab) {
+let somme = 0;
+for (let i =0 ; i < tab.length; i++){
+    somme = somme + tab[i] 
+}
+    return somme;
 
+}
 //* Begin of tests
 const assert = require('assert')
 
